@@ -1,0 +1,278 @@
+565532	fahad_69	Buildings	3d ago	C++17 GCC 9.2	0.0s	1.3 MB	Accepted
+565508	fahad_69	Fun Theory	3d ago	C++17 GCC 9.2	0.0s	524 kB	Accepted
+565487	fahad_69	Let's See!	3d ago	C++17 GCC 9.2	0.2s	2.1 MB	Accepted
+565484	fahad_69	The Mughal Emperor	3d ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+565303	fahad_69	Remember the Future	5d ago	C++17 GCC 9.2	0.6s	262 kB	Accepted
+565299	fahad_69	UAP Programming Cont...	5d ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+565298	fahad_69	The Great Game	5d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+565297	fahad_69	Aquaman's Greatest A...	5d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+565294	fahad_69	Exclusive-OR	5d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+565291	fahad_69	Find the Circle	5d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+565287	fahad_69	Who Will Get the Job...	5d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+565285	fahad_69	Flash in Trouble!	5d ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+565268	fahad_69	Simple Function	5d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+565266	fahad_69	Easy Sequence 1	5d ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+565263	fahad_69	Happiness	5d ago	C++17 GCC 9.2	0.0s	262 kB	Accepted
+565262	fahad_69	How Many Ways?	5d ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+565261	fahad_69	Game of Sticks	5d ago	C++17 GCC 9.2	0.4s	918 kB	Accepted
+565260	fahad_69	Functions Are Beauti...	5d ago	C++17 GCC 9.2	0.1s	14 MB	Accepted
+565256	fahad_69	Some Basic Chords	5d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+565251	fahad_69	Want Some Chocolates...	5d ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+565250	fahad_69	Nusrat Weds Kadzz	5d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+565222	fahad_69	Smallest Interval	6d ago	C++17 GCC 9.2	0.0s	782 kB	Accepted
+565182	fahad_69	Find the Number of P...	6d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+564383	fahad_69	Divisor Difference	6d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+564327	fahad_69	Subset AND	6d ago	C++17 GCC 9.2	0.1s	131 kB	Accepted
+564163	fahad_69	Are You Coding Me?	6d ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+564133	fahad_69	PIZZA Problem	6d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+564038	fahad_69	Groot's Mission	6d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+563772	fahad_69	You Should Believe H...	6d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+563725	fahad_69	Say it !	6d ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+563702	fahad_69	Keep the Apples	6d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+563677	fahad_69	Complementing DNA	6d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+563655	fahad_69	Like Old Times Again	6d ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+563644	fahad_69	Only One’s	6d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+563391	fahad_69	The Interesting Game...	6d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+563356	fahad_69	Rick and Morty	6d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+563349	fahad_69	A Problem for String...	6d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+563347	fahad_69	Sundarban Express	6d ago	C++17 GCC 9.2	0.2s	6.8 MB	Accepted
+563319	fahad_69	Maximum Direction in...	6d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+563314	fahad_69	Diagonal Sum	6d ago	C++17 GCC 9.2	0.0s	344 kB	Accepted
+563313	fahad_69	Maximum Multiplicati...	6d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+563172	fahad_69	Reconstruction of Du...	6d ago	C++17 GCC 9.2	0.0s	393 kB	Accepted
+563170	fahad_69	Help Sakib!	6d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+563166	fahad_69	An Obvious Interacti...	6d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+563161	fahad_69	Huge Number	6d ago	PyPy 7.1 (3.6)	0.1s	28 MB	Accepted
+563158	fahad_69	Interesting Subarray	6d ago	C++17 GCC 9.2	0.1s	262 kB	Accepted
+563153	fahad_69	Football and ICPC	6d ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+563149	fahad_69	The Depressed Guy	6d ago	C++17 GCC 9.2	0.1s	18 MB	Accepted
+563139	fahad_69	United State of Koan...	6d ago	C++17 GCC 9.2	0.1s	8.2 MB	Accepted
+563085	fahad_69	Alien Invasion	1w ago	C++17 GCC 9.2	0.1s	2.4 MB	Accepted
+562941	fahad_69	PUBG Lover Programme...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562940	fahad_69	Wheel Graph	1w ago	C++17 GCC 9.2	0.0s	262 kB	Accepted
+562938	fahad_69	Arya and OR	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+562889	fahad_69	BAPG	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562872	fahad_69	Exist or not exist	1w ago	C++17 GCC 9.2	0.7s	918 kB	Accepted
+562588	fahad_69	Who Ate the Pizza Sl...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562587	fahad_69	Challenging Lover	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+562585	fahad_69	Ashik's Trouble	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+562581	fahad_69	Prisoners of Musabad	1w ago	C++17 GCC 9.2	0.1s	4.1 MB	Accepted
+562576	fahad_69	You Want Chocolate?	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562573	fahad_69	Easy Math	1w ago	PyPy 7.1 (3.6)	1.7s	60 MB	Accepted
+562562	fahad_69	Corona Virus Attacke...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562558	fahad_69	Justify the Inventio...	1w ago	C++17 GCC 9.2	0.3s	2.6 MB	Accepted
+562546	fahad_69	Combination Lock	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562545	fahad_69	Compute the Combinat...	1w ago	C++17 GCC 9.2	0.8s	2.1 MB	Accepted
+562544	fahad_69	N Factorial!	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562540	fahad_69	How Many Litchis?	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562539	fahad_69	Niko Goes Farming	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562538	fahad_69	Window Seats on a Bu...	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+562537	fahad_69	Red and Green	1w ago	C++17 GCC 9.2	0.0s	524 kB	Accepted
+562536	fahad_69	Roll the Dice	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+562535	fahad_69	|u|	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562506	fahad_69	Trivial Summation	1w ago	C++17 GCC 9.2	0.2s	1.2 MB	Accepted
+562319	fahad_69	Cook a Dish	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+562317	fahad_69	Calculate The Sum If...	1w ago	C++17 GCC 9.2	0.1s	1.3 MB	Accepted
+562312	fahad_69	Arithmetic Sequence...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562310	fahad_69	Easy Summation	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562309	fahad_69	Funmondi Contest!	1w ago	C++17 GCC 9.2	0.1s	2.4 MB	Accepted
+562302	fahad_69	Prime Team	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562299	fahad_69	Noman's Birthday	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562297	fahad_69	The Haunted House	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+562296	fahad_69	Word Count	1w ago	C++17 GCC 9.2	0.0s	782 kB	Accepted
+562294	fahad_69	A Feast for the Fans	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562292	fahad_69	Digit Separation	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562286	fahad_69	Find the CEOs	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562282	fahad_69	Jigsaw Puzzle	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562281	fahad_69	Power of Army	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562280	fahad_69	Old Magic!	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562279	fahad_69	First Snow	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562275	fahad_69	Magic Moments	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562271	fahad_69	Heavy Alphabet	1w ago	C++17 GCC 9.2	0.0s	524 kB	Accepted
+562259	fahad_69	Hablu Is in Quaranti...	1w ago	C++17 GCC 9.2	0.0s	524 kB	Accepted
+562257	fahad_69	Aloyna and Can Buyin...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562256	fahad_69	Treat Time	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562252	fahad_69	Sofdar Ali's Next Da...	1w ago	C++17 GCC 9.2	1.1s	13 MB	Accepted
+562244	fahad_69	The Bachelor's Probl...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562240	fahad_69	The Boat Filled With...	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+562237	fahad_69	Crossword Puzzles	1w ago	C++17 GCC 9.2	0.0s	315 kB	Accepted
+562155	fahad_69	Burger King	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+562135	fahad_69	Arithmetic Sequence...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562133	fahad_69	Tree Knapsack Proble...	1w ago	C++17 GCC 9.2	0.0s	393 kB	Accepted
+562118	fahad_69	Choco Moco	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562103	fahad_69	Anita's Experiment	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+562081	fahad_69	Sweety Miya The Save...	1w ago	C++17 GCC 9.2	0.7s	262 kB	Accepted
+562070	fahad_69	Directed Rectangle	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561919	fahad_69	CGPA, the Golden Egg...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561917	fahad_69	Simple Operation	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+561916	fahad_69	Minions	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+561915	fahad_69	The Titan	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561914	fahad_69	Life of Decimals	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561912	fahad_69	Alice and the Chessb...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561911	fahad_69	Ice-cream of Montu M...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561910	fahad_69	What's your ID?	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561909	fahad_69	LU_CONTESTANTS	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561908	fahad_69	Counting the Counts	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561907	fahad_69	I Did Not Do the Ass...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561904	fahad_69	Why Don't You Guys B...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561903	fahad_69	Niko Loves NSU	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561902	fahad_69	A Brief History of N...	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+561901	fahad_69	Alayna's Adventure J...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561900	fahad_69	Array Sorting	1w ago	C++17 GCC 9.2	0.0s	1.1 MB	Accepted
+561899	fahad_69	XOR and the Array	1w ago	C++17 GCC 9.2	0.0s	4.4 MB	Accepted
+561877	fahad_69	Find Prime	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561876	fahad_69	Alayna and Strings	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+561874	fahad_69	Love Letters!	1w ago	C++17 GCC 9.2	0.0s	565 kB	Accepted
+561850	fahad_69	Weather Report	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561848	fahad_69	Water Bottle Buying	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561816	fahad_69	Trap of Thanos	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561806	fahad_69	Shimanto's Parallelo...	1w ago	C++17 GCC 9.2	0.0s	262 kB	Accepted
+561764	fahad_69	Tower of Sticks	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561711	fahad_69	Incorrect Is Incorre...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561675	fahad_69	Bowler of the Match	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561525	fahad_69	The Game Is On	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561406	fahad_69	Love Letter	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561306	fahad_69	Geometry Is Fun! Huh...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561251	fahad_69	Hakuna Matata	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+561229	fahad_69	Prime Range	1w ago	C++17 GCC 9.2	0.9s	168 MB	Accepted
+561085	fahad_69	The Easiest Problem	1w ago	C++17 GCC 9.2	0.5s	7.3 MB	Accepted
+560940	fahad_69	NAC-SAC Game! (Easy)	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+560869	fahad_69	Relatively Prime	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+560857	fahad_69	A Lack of Common Div...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+560418	fahad_69	Chief Thief	1w ago	C++17 GCC 9.2	0.0s	1.2 MB	Accepted
+560404	fahad_69	Number Game	1w ago	C++17 GCC 9.2	0.3s	131 kB	Accepted
+560403	fahad_69	Number Game	1w ago	C++17 GCC 9.2	0.4s	131 kB	Accepted
+560395	fahad_69	Victory Robot	1w ago	C++17 GCC 9.2	0.0s	655 kB	Accepted
+560394	fahad_69	Count the Mines	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+560393	fahad_69	Sorting	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+560389	fahad_69	Penguins of Madagasc...	1w ago	C++17 GCC 9.2	0.3s	1.2 MB	Accepted
+560384	fahad_69	Penguins of Madagasc...	1w ago	C++17 GCC 9.2	0.5s	1.4 MB	Accepted
+560373	fahad_69	Penguins of Madagasc...	1w ago	C++17 GCC 9.2	0.3s	11 MB	Accepted
+559560	fahad_69	Code at the Time of...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+559558	fahad_69	Magic Square	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+559546	fahad_69	Dengue	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+559545	fahad_69	Painful Giveaway!	1w ago	C++17 GCC 9.2	0.1s	8.0 MB	Accepted
+559542	fahad_69	ML Vs AI	1w ago	C++17 GCC 9.2	0.2s	4.4 MB	Accepted
+559541	fahad_69	GCD and LCM	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+559517	fahad_69	Poltu and Odd Number	1w ago	C++17 GCC 9.2	0.0s	3.1 MB	Accepted
+559515	fahad_69	Game of Fifteen	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+559514	fahad_69	Books For War Victim...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+559512	fahad_69	Hide and Seek	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+559511	fahad_69	Odd or Even	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+559507	fahad_69	Erik and His Buggy C...	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+559503	fahad_69	Triangle	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+559491	fahad_69	Aaj Kemon Bodh Korch...	1w ago	C++17 GCC 9.2	0.0s	426 kB	Accepted
+559483	fahad_69	That's 1 Minute See...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+559469	fahad_69	Arya’s Counting	1w ago	C++17 GCC 9.2	0.1s	1.4 MB	Accepted
+559457	fahad_69	Sofdor Ali's Magical...	1w ago	C++17 GCC 9.2	0.1s	2.1 MB	Accepted
+559452	fahad_69	Be Like Hasib	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+559427	fahad_69	Byang's Day Out!	1w ago	C++17 GCC 9.2	0.9s	3.5 MB	Accepted
+559420	fahad_69	Event Timing	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+559397	fahad_69	Mysterious Sum	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+559391	fahad_69	National Flag	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+559371	fahad_69	Alayna and Vowels	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+559366	fahad_69	GPA Calculator	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+559260	fahad_69	Fast Co-Prime	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+559256	fahad_69	Life of Phi	1w ago	C++17 GCC 9.2	0.6s	11 MB	Accepted
+559251	fahad_69	Exponential Growth	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+558946	fahad_69	Ishtiaque and the Ra...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+558942	fahad_69	Easy Factorial?	1w ago	C++17 GCC 9.2	0.1s	10 MB	Accepted
+558939	fahad_69	Magic Number	1w ago	C++17 GCC 9.2	0.0s	1.3 MB	Accepted
+558938	fahad_69	Correct the Sieve	1w ago	C++17 GCC 9.2	0.1s	31 MB	Accepted
+558937	fahad_69	I Scream, You Scream...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+558925	fahad_69	Bees Know Geometry!	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+558827	fahad_69	Dabbu the Entreprene...	1w ago	C++17 GCC 9.2	0.7s	6.0 MB	Accepted
+558824	fahad_69	Irregular Is Tough,...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+558756	fahad_69	K-Th Root	1w ago	C++17 GCC 9.2	0.4s	66 MB	Accepted
+558390	fahad_69	Largest Prime	1w ago	C++17 GCC 9.2	0.1s	3.8 MB	Accepted
+556499	fahad_69	Inscribed Square and...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556497	fahad_69	Piece of Cake	1w ago	C++17 GCC 9.2	0.3s	2.0 MB	Accepted
+556489	fahad_69	Circle of Boltu	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+556477	fahad_69	Pakna And His Polygo...	1w ago	C++17 GCC 9.2	0.0s	262 kB	Accepted
+556476	fahad_69	Jenia's Homework	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556475	fahad_69	Angle of Polygon	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556473	fahad_69	How Cow!	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556470	fahad_69	Ha Ha Ha	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+556469	fahad_69	Around the Square	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+556468	fahad_69	Circles in a Rectang...	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556467	fahad_69	Area	1w ago	C++17 GCC 9.2	0.1s	3.3 MB	Accepted
+556463	fahad_69	Dr. Tanzil's Island	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556460	fahad_69	Arshiya's Sector	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+556458	fahad_69	Matching Brackets	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556445	fahad_69	Neat Brackets	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556440	fahad_69	Mines	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+556436	fahad_69	Little Matrix Multip...	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+556432	fahad_69	Test Cases	1w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556425	fahad_69	Left Prime	1w ago	C++17 GCC 9.2	0.2s	51 MB	Accepted
+556415	fahad_69	Counting Is Difficul...	1w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+556387	fahad_69	An Arithmetic Proble...	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556383	fahad_69	Highschool Mathemati...	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556374	fahad_69	Nusrat's Treat	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556372	fahad_69	Kitchen Decorate	2w ago	C++17 GCC 9.2	0.0s	262 kB	Accepted
+556370	fahad_69	Boltu vs Balti	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556361	fahad_69	Zacob The Batsman	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556340	fahad_69	Dinner With Aminvai	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556339	fahad_69	Count the Odds	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556338	fahad_69	Arshiya's First Code	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556331	fahad_69	GCD Plus LCM	2w ago	C++17 GCC 9.2	0.2s	5.5 MB	Accepted
+556303	fahad_69	How Many Kids Are in...	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556301	fahad_69	Raem's Square	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556300	fahad_69	Shiku Being Shiku	2w ago	C++17 GCC 9.2	0.0s	262 kB	Accepted
+556288	fahad_69	Sofdor Ali and Histo...	2w ago	C++17 GCC 9.2	0.2s	131 kB	Accepted
+556217	fahad_69	Clock Math	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556202	fahad_69	Proper Leap Years	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556198	fahad_69	Leap Years	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556193	fahad_69	N-th Prime	2w ago	C++17 GCC 9.2	0.1s	9.9 MB	Accepted
+556187	fahad_69	Mirror World	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556185	fahad_69	Elementary Arithmeti...	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556038	fahad_69	Squares Inside Squar...	2w ago	C++17 GCC 9.2	0.0s	262 kB	Accepted
+556036	fahad_69	Geometry Forever	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556034	fahad_69	Absolute Value	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556033	fahad_69	I Love 0	2w ago	C++14 GCC 8.3	0.0s	131 kB	Accepted
+556031	fahad_69	Hello Choto Bondhu!	2w ago	C++17 GCC 9.2	0.1s	373 kB	Accepted
+556027	fahad_69	Elementary Arithmeti...	2w ago	C++17 GCC 9.2	0.9s	5.9 MB	Accepted
+556016	fahad_69	Byang's Additions	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556012	fahad_69	Caesar Cipher	2w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+556011	fahad_69	Goat Research	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+556004	fahad_69	Incompatible Crops	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555993	fahad_69	Little Subarray Sum	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555992	fahad_69	Tidy Bits	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555991	fahad_69	Pascal's Triangle	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555989	fahad_69	Full Pyramid	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555988	fahad_69	Is Prime	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555984	fahad_69	Thought Game	2w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+555982	fahad_69	ICPC Is Coming in Ho...	2w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+555979	fahad_69	Fair Distribution	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555977	fahad_69	BPL Mubarak!	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555974	fahad_69	Math and Watermelons	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555973	fahad_69	Running Average Agai...	2w ago	C++17 GCC 9.2	0.1s	918 kB	Accepted
+555972	fahad_69	Running Average	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555970	fahad_69	Maximum	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555967	fahad_69	Missing Number	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555966	fahad_69	Pie Are Squared	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555965	fahad_69	Add Them Up	2w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+555963	fahad_69	Copycat	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555959	fahad_69	ASCII Progress Bar	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555950	fahad_69	Big Factorials	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555946	fahad_69	Fibonacci Numbers	2w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+555941	fahad_69	Set Union	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555936	fahad_69	Squared	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555935	fahad_69	Divisors	2w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+555933	fahad_69	Making Friends	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555932	fahad_69	Mixed Fractions	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555931	fahad_69	Decent Arrays	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555916	fahad_69	Match the Substring	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555911	fahad_69	Remove Duplicates	2w ago	C++17 GCC 9.2	0.0s	393 kB	Accepted
+555865	fahad_69	Genius Needs Help	2w ago	C++17 GCC 9.2	0.8s	11 MB	Accepted
+555849	fahad_69	Problem in the Print...	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555838	fahad_69	Rename the Books	2w ago	C++17 GCC 9.2	0.5s	10 MB	Accepted
+555822	fahad_69	Passwords	2w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+555817	fahad_69	K-String	2w ago	C++17 GCC 9.2	0.0s	2.3 MB	Accepted
+555801	fahad_69	Konami Code	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555797	fahad_69	#Hashtag	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555795	fahad_69	Reverse Man	2w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+555793	fahad_69	Is Palindrome	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555792	fahad_69	Better Passwords	2w ago	C++17 GCC 9.2	0.0s	0 B	Accepted
+555787	fahad_69	Is Anagram	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555784	fahad_69	Formatted Numbers	2w ago	C++17 GCC 9.2	0.0s	131 kB	Accepted
+555781	fahad_69	Is It a Perfect Squa...	2w ago	C++17 GCC 9.2	1.0s	131 kB	Accepted
