@@ -1,0 +1,11 @@
+s.erase( remove(s.begin(), s.end(), ' '), s.end());
+
+while(a.find("101", pos) != string::npos)
+        {
+            pos = a.find("101", pos) + 1;
+            c++;
+        }
+
+
+   memset(a, 0, sizeof(a));
+
